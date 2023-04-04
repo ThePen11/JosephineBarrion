@@ -563,15 +563,16 @@ footer .copyright{
         clip-path: polygon(0 0, 100% 0, 100% 100%, 69% 95%, 0 100%);
     }
     .hero .right{
-        position: absolute;
-        top:260px;
-        padding:0 1rem;
-        background:linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0.9));
+     margin-bottom: 20rem;
+
+        margin-right: rem3;
+        padding-bottom:4rem;
+        
     }
     .hero .left{
-        margin-top:-5rem;
-        margin-right: -9rem;
-        padding-bottom:4rem;
+        position: absolute;
+        padding:0 1rem;
+        margin-top: 10rem;
     }
     .about-inner-wrap{
         flex-direction: column;
